@@ -5,5 +5,5 @@
 		.s1 { fill: none;stroke: #e6cd40;stroke-width: 20 } 
 	</style>
 	<path id="NEW" class="s0" aria-label="NEW"  d="m77.2 164h-16v-87.5h16l41.1 61.6v-61.6h16v87.5h-16l-41.1-61.5zm131.2 0h-57.1v-87.5h57.1v12.9h-41.1v24h37.4v12.5h-37.4v25.2h41.1zm51.8 0h-18.9l-23.1-87.5h17.1l15.8 69.7 18.5-69.7h17.6l18 69.7 15.7-69.7h17.3l-23.8 87.5h-19l-17.3-64.8z"/>
-	<rect id="Shape 1" class="s1" x="10" y="10" width="380" height="220" rx="25"></rect>
+	<rect id="Shape 1" class="s1" x="10" y="10" width="380" height="220" rx="50"></rect>
 </svg>
