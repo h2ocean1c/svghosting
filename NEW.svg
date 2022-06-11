@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 24" width="40" height="24">
+	<title>NEW-svg</title>
+	<style>
+		.s0 { fill: #e6cd40 } 
+		.s1 { fill: none;stroke: #e6cd40;stroke-width: 2 } 
+	</style>
+	<path id="NEW" class="s0" d="m7.7 16.4h-1.6v-8.7h1.6l4.1 6.1v-6.1h1.6v8.7h-1.6l-4.1-6.1zm13.1 0h-5.7v-8.8h5.7v1.3h-4.1v2.4h3.8v1.2h-3.8v2.6h4.1zm5.2 0h-1.9l-2.3-8.8h1.7l1.6 7 1.9-7h1.7l1.8 7 1.6-7h1.7l-2.4 8.8h-1.9l-1.7-6.5z"/>
+	<rect id="Shape 1" class="s1" x="1" y="1" width="38" height="22" rx="8"></rect>
+</svg>
