@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 416" width="26" height="26">
+	<title>UP ARROW-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #40e540;stroke-linejoin: round;stroke-width: 32 } 
+		.s1 { fill: #008844;stroke: #40e540;stroke-linejoin: round;stroke-width: 32 } 
+	</style>
+	<g id="g6">
+		<circle id="circle2" class="s0" cx="208" cy="208" r="184"/>
+		<path id="path4" class="s1" d="m306.9 219.3l-92.4-95.6v194.5h-13.9v-194.5l-92.4 95.6-9.4-10.3 108.6-108.6 108.7 108.6z"/>
+	</g>
+</svg>
